@@ -114,25 +114,29 @@ Pay using dummy visa card
 Use the admin panel to manage orders, menu items.
 
 ## Screenshots
-![1](https://github.com/DulanjaliSenarathna/mern-food-delivery-app/assets/59603716/b3d604f0-ae0e-4e29-9b95-51f6327c3952)
-![2](https://github.com/DulanjaliSenarathna/mern-food-delivery-app/assets/59603716/0cb56d94-a715-48bd-9a7d-05c876a05b2c)
-![3](https://github.com/DulanjaliSenarathna/mern-food-delivery-app/assets/59603716/f5dd216a-dc8d-4042-9a96-4884cdb17aef)
-![Capture2](https://github.com/DulanjaliSenarathna/mern-food-delivery-app/assets/59603716/22fc6a58-b713-4ab7-babb-cff5844e7c55)
-![Capture3](https://github.com/DulanjaliSenarathna/mern-food-delivery-app/assets/59603716/0f7fe1ab-8c29-4fa2-bdb2-7212994cdf80)
-![Capture4](https://github.com/DulanjaliSenarathna/mern-food-delivery-app/assets/59603716/f41881c6-e148-4215-9953-458bbe602007)
-![Capture5](https://github.com/DulanjaliSenarathna/mern-food-delivery-app/assets/59603716/34e366fa-8ee5-4f77-a5e0-d5d4ea294672)
-![Capture6](https://github.com/DulanjaliSenarathna/mern-food-delivery-app/assets/59603716/1894f642-ea89-42de-ad74-de173c6c42aa)
-![Capture7](https://github.com/DulanjaliSenarathna/mern-food-delivery-app/assets/59603716/1a94b8aa-aa4e-4991-9d45-f6548f793b47)
-![Capture8](https://github.com/DulanjaliSenarathna/mern-food-delivery-app/assets/59603716/c85e4c11-7ebf-4e45-8678-4000abde835d)
+![Screenshot_14-12-2024_115455_localhost](https://github.com/user-attachments/assets/bf639852-ded3-4ae1-8915-db61287c489e)
+![Screenshot_14-12-2024_115432_localhost](https://github.com/user-attachments/assets/31d66ba5-3a7e-4898-8fc9-97a18681e8ad)
+![Screenshot_14-12-2024_115038_localhost](https://github.com/user-attachments/assets/5c8de01c-15e6-4208-8429-bb82a398d402)
+![Screenshot_14-12-2024_115245_localhost](https://github.com/user-attachments/assets/38d67ce2-f6ae-462d-9603-5a332d9c35bf)
+![Screenshot_14-12-2024_123016_localhost](https://github.com/user-attachments/assets/d1d31a16-8ca5-476e-9af4-b97078359200)
+![Screenshot_14-12-2024_115343_localhost](https://github.com/user-attachments/assets/7e28bdda-7ffe-422b-85ae-fa6aea9b4f23)
+![Screenshot_14-12-2024_11540_localhost](https://github.com/user-attachments/assets/115b6675-e41b-4916-9f1a-ae92ee5400b7)
+![Screenshot_14-12-2024_122612_localhost](https://github.com/user-attachments/assets/77647e43-1239-4a98-954c-a9712f1159f9)
+![Screenshot_14-12-2024_122628_localhost](https://github.com/user-attachments/assets/42b84d29-d019-4d71-acf1-17e2d670ea84)
+![Screenshot_14-12-2024_122752_localhost](https://github.com/user-attachments/assets/2fe7fab7-f7c2-4213-915c-bb15ee4a9b34)
+
+## ADMIN PANEL
+![Screenshot_28-12-2024_22014_localhost](https://github.com/user-attachments/assets/c4633dd0-2d84-44cd-85e7-a940e71cb2a0)
+![Screenshot_28-12-2024_22039_localhost](https://github.com/user-attachments/assets/e3f1ba5b-ba63-444a-b6db-a793696380dc)
+![Screenshot_28-12-2024_22053_localhost](https://github.com/user-attachments/assets/a2778854-7f18-4077-becf-9914fb4de96e)
+
+
 
 ## API Documentation
 The API endpoints for the backend can be documented using tools like Postman or Swagger. Include endpoints for user authentication, menu items, orders, and more.
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Make sure to follow the code style and include relevant tests.
-
-## Contact
-For any questions or suggestions, feel free to contact me.
 
 Happy coding!
 
@@ -141,6 +145,5 @@ Feel free to customize this template according to your specific project details 
 
 
 
-# mern-food-delivery-app
-# mern-food-delivery-app
+
 # mern-food-delivery-app
