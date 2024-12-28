@@ -20,6 +20,12 @@
     font-size: 14px;
     animation: fadeIn 0.5s;
 }
+.error-message {
+    color: red;
+    font-size: 0.9rem;
+    margin-top: 5px;
+}
+
 
 .login-popup-title{
     display: flex;
